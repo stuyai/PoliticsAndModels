@@ -9,7 +9,7 @@ fsspec==2025.2.0
 gast==0.6.0
 google-pasta==0.2.0
 grpcio==1.70.0
-h5py==3.12.1
+h5py==3.13.0
 huggingface-hub==0.28.1
 idna==3.10
 keras==3.8.0
