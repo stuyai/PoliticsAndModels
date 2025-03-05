@@ -12,7 +12,7 @@ grpcio==1.70.0
 h5py==3.13.0
 huggingface-hub==0.29.1
 idna==3.10
-keras==3.8.0
+keras==3.9.0
 libclang==18.1.1
 Markdown==3.7
 markdown-it-py==3.0.0
