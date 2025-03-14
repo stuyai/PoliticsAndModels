@@ -3,7 +3,7 @@ astunparse==1.6.3
 bitsandbytes==0.45.3
 certifi==2025.1.31
 charset-normalizer==3.4.1
-filelock==3.17.0
+filelock==3.18.0
 flatbuffers==25.2.10
 fsspec==2025.3.0
 gast==0.6.0
