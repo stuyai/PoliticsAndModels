@@ -1,4 +1,4 @@
-absl-py==2.2.0
+absl-py==2.2.1
 astunparse==1.6.3
 bitsandbytes==0.45.4
 certifi==2025.1.31
